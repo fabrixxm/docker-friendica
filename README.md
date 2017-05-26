@@ -3,6 +3,12 @@ docker-friendica
 
 Try Friendica in Docker
 
+# NOTE
+
+**this repo is unmantained and unsupported**
+
+
+
 Quickstart
 ----------
 
