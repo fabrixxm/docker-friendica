@@ -7,6 +7,8 @@ Try Friendica in Docker
 
 **this repo is unmantained and unsupported**
 
+# SEE https://github.com/friendica/docker
+
 
 
 Quickstart
